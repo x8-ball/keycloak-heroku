@@ -9,3 +9,7 @@ due to Java's memory hunger) with a free Postgres database attached.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+https://www.keycloak.org/getting-started/getting-started-docker
+https://www.keycloak.org/docs/latest/getting_started/index.html
+
+https://healthy-keycloak.herokuapp.com/auth/admin
